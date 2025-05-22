@@ -6,7 +6,7 @@ export default function MainMenu() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Camera App</Text>
+      <Text style={styles.title}>Geo Cam</Text>
       <View style={styles.buttonContainer}>
         <TouchableOpacity 
           style={styles.button}

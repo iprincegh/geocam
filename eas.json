@@ -1,4 +1,8 @@
 {
+  "cli": {
+    "version": ">= 14.3.1",
+    "appVersionSource": "remote"
+  },
   "build": {
     "preview": {
       "android": {
@@ -16,6 +20,10 @@
     "preview4": {
       "distribution": "internal"
     },
-    "production": {}
+    "production": {},
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    }
   }
 }

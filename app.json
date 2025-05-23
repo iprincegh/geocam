@@ -12,11 +12,13 @@
     ],
     "ios": {
       "supportsTablet": true,
+      "bundleIdentifier": "com.princeob.geocam",
       "infoPlist": {
         "NSCameraUsageDescription": "This app needs access to the camera to take photos.",
         "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to save photos.",
         "NSMicrophoneUsageDescription": "This app needs access to the microphone for videos.",
-        "NSLocationWhenInUseUsageDescription": "This app needs access to location to add location info to photos."
+        "NSLocationWhenInUseUsageDescription": "This app needs access to location to add location info to photos.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {

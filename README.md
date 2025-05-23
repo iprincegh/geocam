@@ -1,4 +1,4 @@
-# Camera App
+# Geo Cam
 
 Welcome to the Camera App repository! This is a React Native mobile application built with Expo that allows users to capture, manage, and geotag photos. The app is written in TypeScript and provides a seamless camera experience with location tracking function.
 

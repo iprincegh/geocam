@@ -11,7 +11,7 @@ export default function MainMenu() {
       style={styles.container}
       resizeMode="cover"
     >
-      <Text style={styles.title}>Geo Cam</Text>
+      <Text style={styles.title}>GeoCam</Text>
       
       <View style={styles.bottomContainer}>
         <View style={styles.buttonRow}>
